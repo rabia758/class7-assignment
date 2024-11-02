@@ -5,7 +5,6 @@ import Main from "@/components/main";
 import Projects from "@/components/projects";
 import Contact from "@/components/contact";
 import Footer from "@/components/Footer"
-import Image from "next/image";
 
 
 export default function Home() {

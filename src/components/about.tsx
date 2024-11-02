@@ -1,7 +1,6 @@
 import Image from "next/image"
 import about1 from "../../public/about1.png"
-import about3 from "../../public/about3.png"
-import frame from "../../public/Frame 11.png";
+import about3 from "../../public/about3.png";
 
 export default function About(){
     return(
