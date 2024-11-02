@@ -42,7 +42,11 @@ export default function Contact(){
         </div>
     </div>
 
-    <button cl
+    <button className="bg-gray-800 text-white py-2 border-2 border-black px-4 mt-5">
+        SEND EMAIL
+    </button>
+</div>
+
 
     )
 }
